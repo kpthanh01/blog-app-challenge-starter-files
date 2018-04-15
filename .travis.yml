@@ -4,6 +4,6 @@ deploy:
   provider: heroku
   api_key:
     secure: StTd2MMWJzEdq17c7t8osg4jIHTKN2pmXmQJwDBvtinp042lGq+RYeM2cHj3d3U+mTD/J/J3ih9mQwU1Dxb5t7tCueEPCWejNDjho8grldaSAqtejw3haD7ANBzbtHTVc8/w5CdyGB2pF1+OsUceTAOoKqVOMhrygMCzkkdZfRW3tZsfk7ZkEwSEGHNprEX8CU/ZamitfJufxix/xfBP7v4f4Dxy/2kp8q2QodS5dKWK4WmYDW6nNBWuwDBZplqeGykb1ojY8dsPFcSI5zjbD/TVotc+CEE2QcBbeP9AybuUfjVfPqcwH3GKXnY/5xSMrGiPdX2GeuP+USGCOfzpZdkmwXR8iwjeB2mu6YIZol03rSlqiruSfqY0ZarBLrAIYPuKHZucv+UNlwbtzaAwY83PkTaOQJnzVCO/G7JbcTfu9PomvvkANBIOhUk/3eN0Z916hFO/bkDka23gjcRXq8EHuMZ9tJ04sz6iFQ6xkl09GXxTRF07eop8m0Pjg82V6kp7/4G4f0qbW0i9QKYUkhzTDFprYLuIZIJ+P9kWO4rSlSn83H1RlohLC0/uSGoEOMbGllb0qxHbaaDDxbxQ9QdODp/Zvu3czs9+jxWi+pMTvhrkizDM8iStd3chFsi72qCJKWhITwvBt6zarJFBsEaleD55XRoGGq8HguNV8tA=
-  app: cryptic-taiga-76406
+  app: kp-node-blogpost
   on:
     repo: kpthanh01/blog-app-challenge-starter-files
